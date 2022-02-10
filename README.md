@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @o3523o
-- 👀 I’m interested in  autonomous learning.
+- 👀 I’m interested in programing language.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me →QQ：1873767941
